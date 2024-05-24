@@ -8,7 +8,7 @@ LinkedList.java: Tek ve çift yönlü bağlı listelerin uygulaması.
 Queue.java: Kuyruk veri yapısının uygulaması.
 Stack.java: Yığın veri yapısının uygulaması.
 Tree.java: İkili ağaç veri yapısının uygulaması.
-Sorts.java: Çeşitli sıralama algoritmalarının (Bubble Sort, Merge Sort, Quick Sort, vb.) uygulaması.
+Sorts.java: Çeşitli sıralama algoritmalarının (Bubble Sort, Selection Sort vb.) uygulaması.
 
 Dosya Açıklamaları
 1. LinkedList.java
